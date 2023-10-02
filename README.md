@@ -4,7 +4,7 @@
 SolCV is a fast and easy way to create and distribute your own business cards on Solana. With recent cNFT and state compression advancements, the cost of minting NFT's has become extremely affordable, making business cards a powerful use case for compressed NFTs. 
 
 ## Setup
-- Get started by cloning the repo in your terminal by running `https://github.com/meta-lite/SolCV.git`
+- Get started by cloning the repo in your terminal by running `git clone https://github.com/meta-lite/SolCV.git`
 - Before we can spin up the minting page, you will need to create a new project with [Underdog Protocol](https://www.underdogprotocol.com/products/minting-api). Use [Canva](https://www.canva.com/) to spin up your business card and download as PNG
 - Open `index.html` in your favorite development environment. I recommend [VS Code](https://code.visualstudio.com/). Once VSCode is up and running install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - On line 26, add a photo of your business card: `<img src="HERE"`
